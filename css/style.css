@@ -1,0 +1,43 @@
+.navbar {
+  background: lightgrey;
+  margin: 30px 50px;
+  height: 200px;
+}
+
+.links {
+  padding-left: 50px;
+  line-height: 200px;
+  padding-top:    80px;
+  padding-bottom: 80px;
+}
+
+.links a {
+  text-decoration: none;
+  color: unset;
+}
+
+.unstyled-list {
+ list-style: none;
+}
+
+#dogs-list {
+  list-style: circle inside;
+  border-top: 2px solid red;
+  border-left: 3px dotted blue;
+}
+
+#melee-list {
+  margin: 20px 50px;
+}
+
+.blue-on-grey {
+  background: lightgrey;
+  color: blue;
+}
+
+ul {
+  list-style: square;
+}
+
+.search-results > ul {
+}
